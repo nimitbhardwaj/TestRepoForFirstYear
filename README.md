@@ -1,2 +1,2 @@
 # TestRepoForFirstYear
-This repository is create for teaching first year students about basics of git.
+This repository is created for teaching first year students about basics of git.
